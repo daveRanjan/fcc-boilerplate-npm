@@ -13,6 +13,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
-	}
+		"url": "https://github.com/daveRanjan/fcc-boilerplate-npm"
+	},
+	"license": "MIT"
 }
