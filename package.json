@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Devendra Tiwari",
 	"description": "This is an awesome project",
-	"keywords": [ "Free", "Code", "Camp" ],
+	"keywords": [ "freecodecamp", "Code", "Camp" ],
 	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
